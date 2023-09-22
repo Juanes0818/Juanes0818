@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , me llamo Juan</h1><h3 align="center">Soy un desarrollador backend apasionado por la tecnología</h3>- Actualmente estoy aprendiendo **Python**- Pregúntame sobre **C#, ASP.NET, PHP, Laravel.**- 🌱 💬 📫 Como puedes encontrarme **juanpe0818@gmail.com**
+<h1 align="center">Hola 👋 , me llamo Juan</h1><h3 align="center">Soy un desarrollador backend apasionado por la tecnología</h3> <br>-🌱 Actualmente estoy aprendiendo **Python** <br>-💬 Pregúntame sobre **C#, ASP.NET, PHP, Laravel.** <br>-📫 Como puedes encontrarme **juanpe0818@gmail.com**
 
 
 
